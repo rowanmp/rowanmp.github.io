@@ -1,0 +1,4 @@
+theme = "papermod" 
+baseURL = "https://rowanmp.github.io/" 
+languageCode = "en-us" 
+title = "Rowan Martnishn - Portfolio" 
