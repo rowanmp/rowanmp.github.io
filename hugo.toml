@@ -1,4 +1,4 @@
-theme = 'papermod'
-baseURL = 'https://rowanmp.github.io/'
+﻿baseURL = 'https://rowanmp.github.io/'
 languageCode = 'en-us'
-title = 'Rowan Martnishn\'s personal page'
+title = "Rowan Martnishn's personal page"
+theme = 'papermod'
